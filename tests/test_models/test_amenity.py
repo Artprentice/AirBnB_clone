@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Defines unittests for models/amenity.py.
+"""Defines unittests for the models/amenity.py.
 Unittest classes:
     TestAmenity_instantiation
     TestAmenity_save
